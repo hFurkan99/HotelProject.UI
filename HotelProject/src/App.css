@@ -1,0 +1,15 @@
+.navbar {
+  background: linear-gradient(45deg, rgb(104, 63, 194), rgb(38, 33, 43));
+}
+
+.navbar a {
+  color: khaki;
+}
+
+.navbar a:hover {
+  color: skyblue;
+}
+
+.dropdown-menu {
+  background: linear-gradient(45deg, rgb(104, 63, 194), rgb(45, 9, 89));
+}
